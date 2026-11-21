@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+exact_product
+*.o
+.DS_Store
